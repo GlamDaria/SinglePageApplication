@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "something stupid",
+      "author": "Posha"
+    },
+    {
+      "id": 3,
+      "title": "something clever",
+      "author": "Dasha"
+    },
+    {
+      "title": "love",
+      "author": "lovers",
+      "id": 6
+    },
+    {
+      "title": "God Bless",
+      "author": "Queen",
+      "id": 7
+    },
+    {
+      "title": "Лапка",
+      "author": "Ты",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
