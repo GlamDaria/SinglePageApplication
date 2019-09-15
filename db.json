@@ -16,19 +16,19 @@
       "author": "Dasha"
     },
     {
-      "title": "love",
-      "author": "lovers",
-      "id": 6
-    },
-    {
       "title": "God Bless",
       "author": "Queen",
       "id": 7
     },
     {
-      "title": "Лапка",
-      "author": "Ты",
+      "title": "Something awesome",
+      "author": "Cool",
       "id": 8
+    },
+    {
+      "title": "Something exciting",
+      "author": "New",
+      "id": 9
     }
   ],
   "comments": [
